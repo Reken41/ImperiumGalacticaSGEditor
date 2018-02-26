@@ -14,3 +14,7 @@ It's also a world editor.
 * Edit planets orbit (stations, satelites)
 * Edit reaserch (available items, cost, requirements, status)
 * Edit players military rank
+
+## Screens
+
+![ImperiumGalactica1SGEditor-screen](https://github.com/Reken41/ImperiumGalacticaSGEditor/raw/master/Screens/1.jpg)
