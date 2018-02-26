@@ -1,2 +1,5 @@
 theme: jekyll-theme-tactile
 show_downloads: true
+github:
+  zip_url: https://github.com/Reken41/ImperiumGalacticaSGEditor/raw/master/bin/ImperiumGalacticaEditor%200.8.0.1.zip
+
